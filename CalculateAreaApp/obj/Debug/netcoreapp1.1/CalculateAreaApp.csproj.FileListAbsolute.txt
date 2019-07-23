@@ -1,0 +1,10 @@
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\bin\Debug\netcoreapp1.1\CalculateAreaApp.deps.json
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\bin\Debug\netcoreapp1.1\CalculateAreaApp.runtimeconfig.json
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\bin\Debug\netcoreapp1.1\CalculateAreaApp.runtimeconfig.dev.json
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\bin\Debug\netcoreapp1.1\CalculateAreaApp.dll
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\bin\Debug\netcoreapp1.1\CalculateAreaApp.pdb
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\obj\Debug\netcoreapp1.1\CalculateAreaApp.csprojResolveAssemblyReference.cache
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\obj\Debug\netcoreapp1.1\CalculateAreaApp.csproj.CoreCompileInputs.cache
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\obj\Debug\netcoreapp1.1\CalculateAreaApp.AssemblyInfo.cs
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\obj\Debug\netcoreapp1.1\CalculateAreaApp.dll
+C:\Users\rjaiswal\source\repos\CalculateArea\CalculateAreaApp\CalculateAreaApp\obj\Debug\netcoreapp1.1\CalculateAreaApp.pdb
